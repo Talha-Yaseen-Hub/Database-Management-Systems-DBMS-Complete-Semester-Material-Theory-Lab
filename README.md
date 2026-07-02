@@ -1412,6 +1412,14 @@ Database Management Systems — Semester 3
 <a id="license"></a>
 ## 📜 License
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/License-MIT-FFD700?style=for-the-badge&labelColor=1E3C72" />
+
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for full details.
+
+</div>
+
 This repository is intended for **educational purposes only**. All textbooks remain the intellectual property of their respective authors and publishers, and are shared here solely for personal academic reference within this course. You are free to study, reference, and learn from the original material (lecture slides, lab manuals) for non-commercial purposes — please credit this repository if you reuse substantial parts of it.
 
 <div align="right"><a href="#top">⬆️ Back to Top</a></div>
