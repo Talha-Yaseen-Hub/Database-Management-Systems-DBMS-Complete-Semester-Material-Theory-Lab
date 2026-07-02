@@ -1416,7 +1416,7 @@ Database Management Systems — Semester 3
 
 <img src="https://img.shields.io/badge/License-MIT-FFD700?style=for-the-badge&labelColor=1E3C72" />
 
-# This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for full details.
+## This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for full details.
 
 </div>
 
