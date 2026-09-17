@@ -80,9 +80,9 @@
 | 🏛 Department | Punjab University College of Information Technology (PUCIT) |
 | 📚 Subject | Database Management Systems |
 | 👨‍🏫 Instructor | Sir Asif |
-| 🗓 Semester | 3rd Semester — Fall 2025 |
+| 🗓 Semester | 3rd Semester — Fall 2024 |
 | 🎯 Degree Program | BS Information Technology |
-| 📍 Campus | New Campus, Lahore, Pakistan |
+| 📍 Campus | Old Campus, Lahore, Pakistan |
 
 <div align="right"><a href="#top">⬆️ Back to Top</a></div>
 
@@ -137,6 +137,20 @@
  ┃ ┣ 🖥️ Unit 12 — Transaction Processing (F25)
  ┃ ┗ 🖥️ Unit 13 — Concurrency Control (F25)
  ┃
+ ┣ 📁 LABS and Solutions
+ ┃ ┣ 🖥️ Lab 1  — (Fall 2024)
+ ┃ ┣ 🖥️ Lab 2  — (F24)
+ ┃ ┣ 🖥️ Lab 3  — (F24)
+ ┃ ┣ 🖥️ Lab 4  — (F24)
+ ┃ ┣ 🖥️ Lab 6  — (F24)
+ ┃ ┣ 🖥️ Lab 7  — (F24)
+ ┃ ┣ 🖥️ Lab 8  — (F24)
+ ┃ ┣ 🖥️ Lab 9  — (F24)
+ ┃ ┣ 🖥️ Lab 10 — (F24)
+ ┃ ┣ 🖥️ Lab 11 — (F24)
+ ┃ ┣ 🖥️ Lab 12 — (F24)
+ ┃ ┗ 🖥️ Lab Test — (F24)
+ ┃
  ┗ 📁 Labs Data
    ┣ 📄 DBMS Lab Manual
    ┣ 💻 SQL-1  — Introduction
@@ -151,6 +165,7 @@
    ┣ 💻 SQL-10 — DCL (F25)
    ┣ ⚙️ PL/SQL-1 (F25)
    ┗ ⚙️ PL/SQL-2 (F25)
+
 ```
 
 <div align="right"><a href="#top">⬆️ Back to Top</a></div>
